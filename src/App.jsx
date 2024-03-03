@@ -1,10 +1,8 @@
-import "./App.css";
 import Brand from "./components/Brand/Brand";
 import Collaborate from "./components/Collaborate/Collaborate";
 import Hero from "./components/Hero/Hero";
 import Header from "./components/header/Header";
 import ConnectTools from "./components/ConnectTools/ConnectTools";
-
 import Relation from "./components/Relation/Relation";
 import BuiltFor from "./components/BuiltFor/BuiltFor";
 import BuiltTeam from "./components/BuiltTeam/BuiltTeam";
