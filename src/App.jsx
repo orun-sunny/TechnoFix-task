@@ -3,7 +3,10 @@ import Brand from "./components/Brand/Brand";
 import Collaborate from "./components/Collaborate/Collaborate";
 import Hero from "./components/Hero/Hero";
 import Header from "./components/header/Header";
-import Work from "./components/Work/Work";
+
+import ConnectTools from "./components/ConnectTools/ConnectTools";
+import Work from "./components/work/work";
+import Relation from "./components/Relation/Relation";
 
 function App() {
   return (
@@ -14,6 +17,8 @@ function App() {
         <Brand />
         <Collaborate />
         <Work />
+        <ConnectTools />
+        <Relation />
       </div>
     </div>
   );
