@@ -1,6 +1,6 @@
 import img from "../../assets/work/work.png";
 import { FaArrowRightLong } from "react-icons/fa6";
-const work = () => {
+const WorkForm = () => {
   return (
     <div className="w-full md:w-10/12 mx-auto flex flex-col md:flex-row justify-center items-center gap-10">
       <div className="flex-1 space-y-5 ">
@@ -24,4 +24,4 @@ const work = () => {
   );
 };
 
-export default work;
+export default WorkForm;

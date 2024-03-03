@@ -3,14 +3,14 @@ import Brand from "./components/Brand/Brand";
 import Collaborate from "./components/Collaborate/Collaborate";
 import Hero from "./components/Hero/Hero";
 import Header from "./components/header/Header";
-
 import ConnectTools from "./components/ConnectTools/ConnectTools";
-import Work from "./components/work/work";
+
 import Relation from "./components/Relation/Relation";
 import BuiltFor from "./components/BuiltFor/BuiltFor";
 import BuiltTeam from "./components/BuiltTeam/BuiltTeam";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Footer from "./components/Footer/Footer";
+import WorkForm from "./components/WorkForm/WorkForm";
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
         <Hero />
         <Brand />
         <Collaborate />
-        <Work />
+        <WorkForm />
         <ConnectTools />
         <Relation />
         <BuiltFor />
