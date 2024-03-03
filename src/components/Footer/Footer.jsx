@@ -7,8 +7,8 @@ const Footer = () => {
     <div className="bg-[#02033B] text-white">
       <div className="px-6 md:px-14 lg:px-28 py-5 lg:py-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center gap-4">
-          <div className="space-y-4 lg:space-y-6">
-            <h2 className="text-2xl font-semibold ">Scan. Detect. Remove.</h2>
+          <div className="space-y-4 lg:space-y-5">
+            <h2 className="text-2xl font-semibold ">Scan . Detect. Remove.</h2>
             <div className="flex items-center gap-x-4 lg:gap-x-6">
               <div className="bg-white rounded-md h-8 w-8 ">
                 <FaTwitter className="text-[#02033B] text-xl mx-auto mt-[6px]" />
@@ -24,7 +24,7 @@ const Footer = () => {
               <h3 className="underline text-[15px]">Privacy Policy</h3>
               <h3 className="underline text-[15px]"> Terms of Service</h3>
             </div>
-            <div className="space-y-2">
+            <div className="space-y-3">
               <p>
                 Copyright © 2022 Certo Software Limited | Registered in England
                 & Wales No. 10072356
