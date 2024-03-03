@@ -7,6 +7,10 @@ import Header from "./components/header/Header";
 import ConnectTools from "./components/ConnectTools/ConnectTools";
 import Work from "./components/work/work";
 import Relation from "./components/Relation/Relation";
+import BuiltFor from "./components/BuiltFor/BuiltFor";
+import BuiltTeam from "./components/BuiltTeam/BuiltTeam";
+import Testimonials from "./components/Testimonials/Testimonials";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -19,6 +23,10 @@ function App() {
         <Work />
         <ConnectTools />
         <Relation />
+        <BuiltFor />
+        <BuiltTeam />
+        <Testimonials />
+        <Footer />
       </div>
     </div>
   );

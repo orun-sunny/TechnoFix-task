@@ -5,7 +5,6 @@ import logo2 from "../../assets/Banner/svg (1).png";
 import logo3 from "../../assets/Banner/svg.png";
 import { IoMdStar, IoMdStarHalf } from "react-icons/io";
 
-
 const Hero = () => {
   return (
     <div className="lg:h-[vh]  pb-4 w-full   px-28 items-center md:w-10/12 mx-auto flex flex-col md:flex-row justify-between  gap-10 mt-10">
@@ -15,7 +14,7 @@ const Hero = () => {
             Take ideas from better to best
           </h1>
           <p className="text-slate-700 my-2 mb-2 text-[17px]">
-            Miro is your team's visual platform to connect <br /> collaborate,
+            Miro is your teams visual platform to connect <br /> collaborate,
             and create — together.
           </p>
           <div className="space-y-3 my-2 pt-3">

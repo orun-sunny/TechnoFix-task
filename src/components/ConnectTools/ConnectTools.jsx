@@ -1,9 +1,8 @@
-import React from "react";
 import { FaArrowRight } from "react-icons/fa6";
 import image from "../../assets/work/connect.png";
 const Connect = () => {
   return (
-    <div className="py-3 overflow-hidden md:py-5 lg:py-7 lg:px-24">
+    <div className="py-3 overflow-hidden md:py-5 lg:py-7 lg:px-24 px-24">
       <div className="grid grid-cols-1 items-center lg:grid-cols-2">
         <div
           data-aos="fade-left"
