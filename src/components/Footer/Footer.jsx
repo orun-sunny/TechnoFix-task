@@ -26,7 +26,7 @@ const Footer = () => {
             </div>
             <div className="space-y-3">
               <p>
-                Copyright © 2022 Certo Software Limited | Registered in England
+                Copyright © 2024 Certo Software Limited | Registered in England
                 & Wales No. 10072356
               </p>
               <p>Designed & developed by Bigger Picture</p>
