@@ -4,7 +4,7 @@ import { RxCross1 } from "react-icons/rx";
 import logo from "../../assets/logo.png";
 import { LuMoveRight } from "react-icons/lu";
 import { AiOutlineGlobal } from "react-icons/ai";
-import { IoIosArrowDown } from "react-icons/io5";
+import { IoIosArrowDown } from "react-icons/io";
 
 const Header = () => {
   const [open, setOpen] = useState(false);
